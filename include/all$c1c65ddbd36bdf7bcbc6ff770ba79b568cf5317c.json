@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "php-myself_demo/myself_demo": {
+            "dev-main": {
+                "name": "php-myself_demo/myself_demo",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/hongdachun/ng_demo.git",
+                    "reference": "a81a7b6ffff17f2fdf854863c6c812026d3aeb4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hongdachun/ng_demo/zipball/a81a7b6ffff17f2fdf854863c6c812026d3aeb4a",
+                    "reference": "a81a7b6ffff17f2fdf854863c6c812026d3aeb4a",
+                    "shasum": ""
+                },
+                "time": "2023-10-30T03:19:10+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Test\\": "src/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "hdc"
+                    }
+                ],
+                "description": "处理rabbitmq",
+                "support": {
+                    "source": "https://github.com/hongdachun/ng_demo/tree/main",
+                    "issues": "https://github.com/hongdachun/ng_demo/issues"
+                }
+            }
+        }
+    }
+}

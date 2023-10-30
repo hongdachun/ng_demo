@@ -1,0 +1,12 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$c1c65ddbd36bdf7bcbc6ff770ba79b568cf5317c.json": {
+            "sha1": "c1c65ddbd36bdf7bcbc6ff770ba79b568cf5317c"
+        }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "php-myself_demo/myself_demo"
+    ]
+}
