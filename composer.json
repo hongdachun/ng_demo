@@ -1,0 +1,15 @@
+{
+    "name": "php-amqplib/php-amqplib",
+    "description": "处理rabbitmq",
+    "autoload": {
+        "psr-4": { 
+            "Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hdc"
+        }
+    ],  
+    "require": {}
+}
