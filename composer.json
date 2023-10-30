@@ -1,5 +1,5 @@
 {
-    "name": "php-amqplib/php-amqplib",
+    "name": "php-myself_demo/myself_demo",
     "description": "处理rabbitmq",
     "autoload": {
         "psr-4": { 
