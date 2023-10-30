@@ -3,6 +3,6 @@ namespace Test;
 
 class Test{
 	public function index(){
-		echo "composer包 测试成功"
+		echo "composer包 测试成功";
 	}
 }
